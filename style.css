@@ -1,0 +1,43 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+}
+
+h1 {
+    color: rgb(141, 80, 255);
+    text-align: center;
+    border-bottom: solid 4pt;
+    margin-top: 14pt;
+    border-color: rgb(92, 0, 132);
+    padding-bottom: 2%;
+    background-color: beige;
+}
+
+h2 {
+    text-align: center;
+    color :rgb(110, 57, 255);
+    border: solid 1ch;
+}
+
+h2:hover{
+    color :rgb(67, 17, 114);
+    cursor: pointer;
+}
+.paragraphs{
+    color:rgb(255, 212, 212);
+    font:bold
+}
+.paragraphs:hover{
+    color:rgb(175, 86, 148);
+    cursor: pointer;
+}
+
+.image {
+    max-width: 100%;
+}
+
+.image img{
+    max-width: 100%;
+    max-width: auto;
+}
